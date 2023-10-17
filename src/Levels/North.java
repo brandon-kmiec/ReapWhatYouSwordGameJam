@@ -19,14 +19,14 @@ public class North {
     private boolean titleScreen;
     private String hoverText;
     private final int x, y;
-    private RECT textBoxRect;
-    private RECT responseA, responseB;
-    private RECT gameOver;
+    private final RECT textBoxRect;
+    private final RECT responseA, responseB;
+    private final RECT gameOver;
     private int counter;
     private final ArrayList<AText> aTextList;
     private ArrayList<String> wrap;
-    private AText aText;
-    private Sound gameOverSound;
+    private final AText aText;
+    private final Sound gameOverSound;
 
     public North(Control ctrl) {
         this.ctrl = ctrl;
@@ -101,7 +101,7 @@ public class North {
             ctrl.drawHudString(p.x, (p.y - 2), hoverText, Color.BLACK);
             ctrl.drawHudString((p.x - 2), (p.y - 2) - 2, hoverText, Color.YELLOW);
 
-            String temp = "";
+            String temp;
 
             drawAnimatedText();
 
