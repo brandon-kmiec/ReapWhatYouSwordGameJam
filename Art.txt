@@ -3,6 +3,7 @@ Art/CreepySeller.png*CreepySeller
 Art/EmptyPlace.png*EmptyPlace
 Art/FantasyMessageBoard.png*FantasyMessageBoard
 Art/GameOverScreen.png*GameOverScreen
+Art/OriginalTextBox.png*OriginalTextBox
 Art/ResponseTextBox.png*ResponseTextBox
 Art/ScummySeller.png*ScummySeller
 Art/ShopBackground.png*ShopBackground
