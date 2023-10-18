@@ -1,5 +1,3 @@
-// Brandon Kmiec
-
 package Main;
 
 import Data.*;
@@ -40,7 +38,7 @@ public class Main {
     /* This is your access to the "game loop" (It is a "callback" method from the Control class (do NOT modify that class!))*/
     public static void update(Control ctrl) {
         ctrl.drawString(10, 30, "Credits:", Color.WHITE);
-        ctrl.drawString(10, 60, "Art: Aaron Rodriguez", Color.WHITE);
+        ctrl.drawString(10, 60, "Art, Dialogue and Game Over Music: Aaron Rodriguez", Color.WHITE);
         ctrl.drawString(10, 90, "Programming: Brandon Kmiec @ CSU Sacramento", Color.WHITE);
         ctrl.drawString(10, 120, "Game Engine: Prof. Phillips @ CSU Sacramento", Color.WHITE);
         ctrl.drawString(10, 150, "Free to Use Audio: SoundsForStories @ YouTube", Color.WHITE);
