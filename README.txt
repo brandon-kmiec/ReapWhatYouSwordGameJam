@@ -1,8 +1,8 @@
-Art by Aaron Rodriguez
+Art, Dialogue, and Game Over Music by Aaron Rodriguez
 Programming by Brandon Kmiec @ CSU Sacramento
 Custom Game Engine provided to computer science students by Prof. Phillips @ CSU Sacramento
 Free to Use Audio by SoundsForStories @ YouTube (https://youtu.be/qTMn-ixmjdk?si=Sxowc8kENjNdu_fM)
-Game over audio made using Chrome Music Lab
+Game over music made using Chrome Music Lab
 
 
 To run the game, take the GameJam01 folder and open in any IDE (IntelliJ, Eclipse, etc.) of your choice that can run
